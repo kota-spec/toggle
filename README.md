@@ -1,3 +1,3 @@
-# タイトル
+# toggle
 
-[サンプルはこちら](https://kota-spec.github.io/タイトル/)
+[サンプルはこちら](https://kota-spec.github.io/toggle/)
